@@ -1,24 +1,14 @@
 # vue3-dzy
 
-## Project setup
-```
-npm install
-```
+## 说明
+> 基于vue3.0开发多抓鱼pc端页面，主要参考豆瓣读书和当前多抓鱼pc端页面（适配自app页面）  
+> 按兴趣写点自己喜欢的东西☺️
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 组件
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 功能
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 数据结构
+
+
