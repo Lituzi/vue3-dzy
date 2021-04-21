@@ -69,3 +69,6 @@ export interface bookList{
   backgroundImg?: string;
   referrerUserId?: string;
 }
+
+// 书单列表数据结构
+export type bookLists= bookList[]

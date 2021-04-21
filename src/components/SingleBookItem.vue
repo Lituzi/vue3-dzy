@@ -47,7 +47,7 @@ export default defineComponent({
     border-radius: 8px;
     // background-color: rgba(000, 000, 000, 0.3);
     // background: url('https://img.duozhuayu.com/5fdb320454d411eb8a0a8a9465a613a9.jpeg?x-oss-process=image/resize,w_450/quality,Q_80&quot');
-    background:linear-gradient(to top, rgba(204, 204, 204, 0.8) 0%, rgba(204, 204, 204, 0.3) 35%, rgb(204, 204, 204) 59%) center top / auto no-repeat, url('https://img.duozhuayu.com/5fdb320454d411eb8a0a8a9465a613a9.jpeg?x-oss-process=image/resize,w_450/quality,Q_80&quot') center center / cover no-repeat;
+    background:linear-gradient(to top, rgba(204, 204, 204, 0.1) 0%, rgba(204, 204, 204, 0.3) 35%, rgba(204, 204, 204,0.8) 59%) center top / auto no-repeat, url('https://img.duozhuayu.com/5fdb320454d411eb8a0a8a9465a613a9.jpeg?x-oss-process=image/resize,w_450/quality,Q_80&quot') center center / cover no-repeat;
     padding: 15px;
     color: #FFF;
     .book-list-info{

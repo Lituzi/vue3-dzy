@@ -17,6 +17,8 @@ export const testBookList: bookList = {
   referrerUserId: '111',
 }
 
+export const testBookLists: bookList[] = [testBookList,testBookList,testBookList,testBookList,testBookList]
+
 
 // 当前页面用户信息
 export const testOtherUserData: userProps[] = [
